@@ -1,0 +1,4 @@
+[esp-rs-test]
+mqtt_host = "yourpc.local"
+wifi_ssid = "funny.ssid.name"
+wifi_psk = "you.shall.not.pass"
